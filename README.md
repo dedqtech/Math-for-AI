@@ -1,4 +1,5 @@
 Math for AI: The Interactive Series
+
 Master the mathematical foundations of Artificial Intelligence through code, visualization, and real-world application. 
 A comprehensive collection of interactive Kaggle Notebooks designed to bridge the gap between abstract mathematical theory and practical Python implementation.  This series covers the three pillars of AI: Linear Algebra, Calculus, and Probability & Statistics. 
 Unlike traditional textbooks, every concept here is paired with NumPy implementations, Matplotlib visualizations, and hands-on projects using real datasets. 
