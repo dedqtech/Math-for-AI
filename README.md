@@ -34,20 +34,23 @@ Understand how AI makes predictions and handles noise.
     • Tools: SciPy, Pandas.
 
 🎨 Visual Previews
-🖼️ Image Compression with SVD
+ - 🖼️ Image Compression with SVD
 Watch how keeping only the top $k$ singular values reconstructs an image. (Tip: Add a GIF here showing your Pokemon compression from blurry to sharp)
-📉 Gradient Descent in Action
+ - 📉 Gradient Descent in Action
 See the optimization path sliding down a 3D loss surface. (Tip: Add a GIF here showing the red dot finding the minimum)
 
 🛠️ How to Use This Repository
     1. Run on Kaggle: Click the "Open in Kaggle" buttons above to run the notebooks instantly in the cloud (free GPU/TPU available).
     2. Local Setup:
-git clone https://github.com/YOUR_USERNAME/math-for-ai.git
+      git clone https://github.com/YOUR_USERNAME/math-for-ai.git
 cd math-for-ai
-pip install numpy pandas matplotlib scipy sympy jupyter
+      pip install numpy pandas matplotlib scipy sympy jupyter
     3. Follow the Order: Start with Linear Algebra, as it provides the data structures used in the Calculus and Probability modules. 
 
 🤝 Contributing
+
 Found a bug or have a better visualization? Feel free to open an issue or submit a pull request! This series is designed to be a living resource for the community.
+
 📄 License
+
 This project is licensed under the MIT License - feel free to use these notebooks for your own learning or teaching. 
