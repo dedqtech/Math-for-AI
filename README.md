@@ -1,20 +1,47 @@
 Math for AI: The Interactive Series
 
 Master the mathematical foundations of Artificial Intelligence through code, visualization, and real-world application. 
+
 A comprehensive collection of interactive Kaggle Notebooks designed to bridge the gap between abstract mathematical theory and practical Python implementation.  This series covers the three pillars of AI: Linear Algebra, Calculus, and Probability & Statistics. 
 Unlike traditional textbooks, every concept here is paired with NumPy implementations, Matplotlib visualizations, and hands-on projects using real datasets. 
 
 🚀 Quick Start: The Learning Path
-Module	Topics Covered	Practical Project	Kaggle Notebook
-1. Linear Algebra
-   - Vectors, Matrices,
-   -  Eigendecomposition, SVD
-   -  🖼️ Pokemon Image Compression using SVD	
-3. Calculus	Derivatives, Chain Rule, Gradients, Hessian
-    - 📉 Visualizing Gradient Descent on Loss Surfaces	
-5. Probability	Bayes' Theorem, Distributions, MLE, Hypothesis Testing
-   - 🎲 Bayesian Inference with Synthetic Data Modeling	
-(Replace YOUR_KAGGLE_LINK_X with the actual URLs to your saved Kaggle notebooks) 
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 25%;">Module</th>
+      <th style="width: 35%;">Topics Covered</th>
+      <th style="width: 40%;">Projects & Notebooks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>1. Linear Algebra</strong></td>
+      <td>Vectors, Matrices, Eigendecomposition, SVD</td>
+      <td>
+        🖼️ <strong>Pokemon Image Compression</strong> using SVD<br>
+        <em>Kaggle Notebook: [Link]</em>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>2. Calculus</strong></td>
+      <td>Derivatives, Chain Rule, Gradients, Hessian</td>
+      <td>
+        📉 <strong>Visualizing Gradient Descent</strong> on Loss Surfaces<br>
+        <em>Kaggle Notebook: [Link]</em>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>3. Probability</strong></td>
+      <td>Bayes' Theorem, Distributions, MLE, Hypothesis Testing</td>
+      <td>
+        🎲 <strong>Bayesian Inference</strong> with Synthetic Data Modeling<br>
+        <em>Kaggle Notebook: [Link]</em>
+      </td>
+    </tr>
+  </tbody>
+</table>   
 
 📚 What You Will Learn
 1. Linear Algebra: The Structure of Data
