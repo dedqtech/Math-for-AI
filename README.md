@@ -6,9 +6,14 @@ Unlike traditional textbooks, every concept here is paired with NumPy implemen
 
 🚀 Quick Start: The Learning Path
 Module	Topics Covered	Practical Project	Kaggle Notebook
-1. Linear Algebra	Vectors, Matrices, Eigendecomposition, SVD	🖼️ Pokemon Image Compression using SVD	
-2. Calculus	Derivatives, Chain Rule, Gradients, Hessian	📉 Visualizing Gradient Descent on Loss Surfaces	
-3. Probability	Bayes' Theorem, Distributions, MLE, Hypothesis Testing	🎲 Bayesian Inference with Synthetic Data Modeling	
+1. Linear Algebra
+   - Vectors, Matrices,
+   -  Eigendecomposition, SVD
+   -  🖼️ Pokemon Image Compression using SVD	
+3. Calculus	Derivatives, Chain Rule, Gradients, Hessian
+    - 📉 Visualizing Gradient Descent on Loss Surfaces	
+5. Probability	Bayes' Theorem, Distributions, MLE, Hypothesis Testing
+   - 🎲 Bayesian Inference with Synthetic Data Modeling	
 (Replace YOUR_KAGGLE_LINK_X with the actual URLs to your saved Kaggle notebooks) 
 
 📚 What You Will Learn
