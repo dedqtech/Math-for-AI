@@ -67,12 +67,14 @@ Watch how keeping only the top $k$ singular values reconstructs an image. (Tip:
 See the optimization path sliding down a 3D loss surface. (Tip: Add a GIF here showing the red dot finding the minimum)
 
 🛠️ How to Use This Repository
-    1. Run on Kaggle: Click the "Open in Kaggle" buttons above to run the notebooks instantly in the cloud (free GPU/TPU available).
-    2. Local Setup:
+
+    - 1. Run on Kaggle: Click the "Open in Kaggle" buttons above to run the notebooks instantly in the cloud (free GPU/TPU available).
+    - 2. Local Setup:
       git clone https://github.com/YOUR_USERNAME/math-for-ai.git
-cd math-for-ai
+      cd math-for-ai
       pip install numpy pandas matplotlib scipy sympy jupyter
-    3. Follow the Order: Start with Linear Algebra, as it provides the data structures used in the Calculus and Probability modules. 
+    
+    - 3. Follow the Order: Start with Linear Algebra, as it provides the data structures used in the Calculus and Probability modules. 
 
 🤝 Contributing
 
